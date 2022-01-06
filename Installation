@@ -6,3 +6,8 @@ Project ini dibangun dengan menggunakan framework laravel 8. Project ini masih p
 2. Pindahkan ke dalam folder lokasi server *htdocs 
 3. Instal composer menggunakan CMD dengan perintah 'composer install' tanpa tanda petik
 4. Buat database dan import
+
+*Admin Dashboard
+http://127.0.0.1:8000/admin/login
+admin@gmail.com
+admin123
